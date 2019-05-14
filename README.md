@@ -1,5 +1,9 @@
 # ProductInformationExtraction
-Shopeee
+This is a part of Shopee Hackathon Project called National Data Science Challenge. 
+All of the information regarding the challenge could be viewed here https://careers.shopee.sg/ndsc/.
+
+## Introduction
+Everyday there are hundreds of thousands new products added to Shopee. To make relevant products easily discoverable, one fundamental challenge is to accurately extract relevant information from large volume of products. For NDSC 2019, we present this real-world challenge of building an automatic solution to extract product related information through machine learning techniques. The image data is now available and you are supposed to analyze and predict the right tagging for the product.
 
 ## Approach
 Our team decided to use python 3 with the libraries pandas, pillow, keras and tensorflow for this
